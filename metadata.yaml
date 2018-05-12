@@ -1,0 +1,36 @@
+_repo: The-Campers-OutThe-Right-Path-and-the-Wrong_42504
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42504-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, Edward S. (Edward Sylvester)
+    - Jayne, R. H.
+    - Ellis, E. S. (Edward Sylvester)
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_issued: '2013-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42504'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Runaway children -- Juvenile fiction'
+- !lcsh 'Good and evil -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+- !lcsh 'Theft -- Juvenile fiction'
+title: The Campers Out; Or, The Right Path and the Wrong
+url: http://www.gutenberg.org/ebooks/42504
