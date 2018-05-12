@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '2569'
     url: http://www.gutenberg.org/2009/agents/2569
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42504#The-Campers-OutThe-Right-Path-and-the-Wrong
 gutenberg_issued: '2013-04-11'
 gutenberg_type: Text
 identifiers:
